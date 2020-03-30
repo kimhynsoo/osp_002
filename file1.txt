@@ -1,9 +1,21 @@
 git text
 
 first test file 
+ HEAD
 modify (remote -> local)
 
 1st branch file added
 
 mergesort
 
+
+modify (remote -> local) 
+
+
+
+
+
+
+
+rebase
+before rebase modify 2nd branch
