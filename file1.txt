@@ -2,3 +2,11 @@ git text
 
 first test file 
 modify (remote -> local) 
+
+
+
+
+
+
+
+rebase
